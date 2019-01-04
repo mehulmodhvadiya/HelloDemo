@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D207B5F21DF66C90096A1B5 /* helloVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D207B5E21DF66C90096A1B5 /* helloVC.swift */; };
 		2D87614820CA634900ACA58D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D87614720CA634900ACA58D /* AppDelegate.swift */; };
 		2D87614A20CA634900ACA58D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D87614920CA634900ACA58D /* ViewController.swift */; };
 		2D87614D20CA634900ACA58D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D87614B20CA634900ACA58D /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2D207B5E21DF66C90096A1B5 /* helloVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = helloVC.swift; path = ../../../CollectionDemo/CollectionDemo/helloVC.swift; sourceTree = "<group>"; };
 		2D87614420CA634900ACA58D /* HelloDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D87614720CA634900ACA58D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2D87614920CA634900ACA58D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				2D87614720CA634900ACA58D /* AppDelegate.swift */,
 				2D87614920CA634900ACA58D /* ViewController.swift */,
+				2D207B5E21DF66C90096A1B5 /* helloVC.swift */,
 				2D87614B20CA634900ACA58D /* Main.storyboard */,
 				2D87614E20CA634900ACA58D /* Assets.xcassets */,
 				2D87615020CA634900ACA58D /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D207B5F21DF66C90096A1B5 /* helloVC.swift in Sources */,
 				2D87614A20CA634900ACA58D /* ViewController.swift in Sources */,
 				2D87614820CA634900ACA58D /* AppDelegate.swift in Sources */,
 			);
